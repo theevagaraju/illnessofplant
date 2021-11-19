@@ -10,6 +10,9 @@ import streamlit as st
 # from PIL import Image
 
 st.subheader("Detecting Illness of Plant")
+st.markdown("""
+This app is developed by Syed Ishfar Shafiq, Theevagaraju, Eugene, and SASHRREIK
+""")
 
 image_file =  st.file_uploader("Upload an image", type=['png','jpeg','jpg'])
 
