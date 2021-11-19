@@ -11,7 +11,7 @@ import streamlit as st
 
 st.subheader("Detecting Illness of Plant")
 st.markdown("""
-This app is developed by Syed Ishfar Shafiq, Theevagaraju, Eugene, and SASHRREIK
+This app is developed by Syed Ishfar Shafiq, Theevagaraju, Eugene, and Sashrreik
 """)
 
 image_file =  st.file_uploader("Upload an image", type=['png','jpeg','jpg'])
