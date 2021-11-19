@@ -1,13 +1,13 @@
 import streamlit as st
-# import cv2 
-# import glob
-# import numpy as np
-# import os
-# from shutil import copyfile
-# from IPython.display import Image, display
-# from tensorflow.keras.preprocessing.image import load_img
-# import PIL
-# from PIL import Image
+import cv2 
+import glob
+import numpy as np
+import os
+from shutil import copyfile
+from IPython.display import Image, display
+from tensorflow.keras.preprocessing.image import load_img
+import PIL
+from PIL import Image
 
 st.subheader("Detecting Illness of Plant")
 
